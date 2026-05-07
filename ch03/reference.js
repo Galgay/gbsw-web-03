@@ -4,6 +4,7 @@ const obj = {
 };
 
 const obj2 = obj;
+
 obj.age = 17;
 
 // 참조형 변수의 경우 복사 시,
